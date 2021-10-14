@@ -1,4 +1,4 @@
 torch
 torchvision
 opencv-python	
-cupy==6.0.0
+cupy==6.1.0
